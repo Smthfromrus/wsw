@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\wsw\wsw\bin\Debug\net6.0\wsw.exe
+C:\Users\admin\Desktop\wsw\wsw\bin\Debug\net6.0\wsw.deps.json
+C:\Users\admin\Desktop\wsw\wsw\bin\Debug\net6.0\wsw.runtimeconfig.json
+C:\Users\admin\Desktop\wsw\wsw\bin\Debug\net6.0\wsw.dll
+C:\Users\admin\Desktop\wsw\wsw\bin\Debug\net6.0\wsw.pdb
+C:\Users\admin\Desktop\wsw\wsw\obj\Debug\net6.0\wsw.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\wsw\wsw\obj\Debug\net6.0\wsw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\wsw\wsw\obj\Debug\net6.0\wsw.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\wsw\wsw\obj\Debug\net6.0\wsw.AssemblyInfo.cs
+C:\Users\admin\Desktop\wsw\wsw\obj\Debug\net6.0\wsw.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\wsw\wsw\obj\Debug\net6.0\wsw.dll
+C:\Users\admin\Desktop\wsw\wsw\obj\Debug\net6.0\refint\wsw.dll
+C:\Users\admin\Desktop\wsw\wsw\obj\Debug\net6.0\wsw.pdb
+C:\Users\admin\Desktop\wsw\wsw\obj\Debug\net6.0\wsw.genruntimeconfig.cache
+C:\Users\admin\Desktop\wsw\wsw\obj\Debug\net6.0\ref\wsw.dll
